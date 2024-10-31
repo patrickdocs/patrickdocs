@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @patrickdocs
-- 🌱 I'm studying Computer Science as an undergraduate at HUST.
-
-# PATRICK's Profile
+# Patrick's Profile
 
 <p align="center">
 <img alt = "" src ="https://komarev.com/ghpvc/?username=patrickdocs">
